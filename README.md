@@ -1,4 +1,4 @@
-# Back-End Developer Capstone
+# Little Lemon API
 ```
 http://127.0.0.1:8000/api/menu/items
 ```
